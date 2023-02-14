@@ -1,0 +1,10 @@
+.col-md-4{
+    height: 350px;
+    margin: 250px 400px 200px 350px ;
+    padding: 30px;
+    width: 600px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
